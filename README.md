@@ -9,3 +9,6 @@ A JavaScript memory match application.
 - jQuery
 - HTML5
 - CSS3
+
+## Live Demo
+Try the application at https://matching.michaelkchang.com/
